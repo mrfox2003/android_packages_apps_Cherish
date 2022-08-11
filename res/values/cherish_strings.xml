@@ -876,4 +876,8 @@
 	<!-- Lockscreen clock color -->
     <string name="lockscreen_clock_color_title">Lockscreen clock color</string>
     <string name="lockscreen_clock_color_summary">Use secondary color for lockscreen clock, if disabled will use color accent</string>
+
+    <!-- Fingerprint Ripple Effect -->
+    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
 </resources>
